@@ -9,7 +9,7 @@ The LMS is an advanced solution designed to improve livestock management & ensur
 
 ## System Architecture
 <p align="center">
-  <img src="Img/LMS-architecture.png" width="900">
+  <img src="Img/LMS-Architecture.png" width="900">
 </p>
 
 This architecture shows the integration of:
