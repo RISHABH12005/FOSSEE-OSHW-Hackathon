@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             LMSTheme {
                 WebViewScreen(
-                    url = "https://lsm-git-main-lightning-sagars-projects.vercel.app/",
+                    url = "https://lms-iota-seven.vercel.app",
                     onWebViewReady = { webView = it }
                 )
             }
