@@ -7,6 +7,35 @@
 ## About
 The LMS is an advanced solution designed to improve livestock management & ensure their well-being there animals. By utilizing modern technology, this system helps farmers efficiently track livestock movements, monitor their health, detect obstacles in their surroundings using a combination of sensors & automation tools.
 
+## Structure
+```
+LMS
+│
+├── AIML                     # Machine Learning for disease detection
+│   ├── main.py
+│   ├── Cattle_Disease_Project_ML.py
+│   └── Dataset/
+│       ├── Training.csv
+│       └── Testing.csv
+│
+├── App                      # Android mobile application
+│   ├── AndroidManifest.xml
+│   └── MainActivity.kt
+│
+├── Sensor                   # IoT sensor & Raspberry Pi scripts
+│   ├── max30102.ino
+│   ├── mpu6050.ino
+│   ├── sensehat.py
+│   └── picam_motor_Auto&manual-move.py
+│
+└── Web                      # Web dashboard (React + Vite)
+    ├── index.html
+    ├── package.json
+    └── src/
+        ├── components/
+        └── pages/
+```
+
 ## Hardware 
 | Component | Quantity | Function |
 |-----------|----------|----------|
