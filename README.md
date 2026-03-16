@@ -70,6 +70,8 @@ LMS
 | MPU6050 | 6-axis motion sensor that measures acceleration and rotation (gyroscope). |
 | Raspberry Pi OS | Linux-based operating system designed for the Raspberry Pi computer. |
 | NumPy | Python library used for numerical computing and working with arrays and matrices. |
+|React| JavaScript library used to build fast, interactive user interfaces, especially for single-page web applications.|
+|Vercel| cloud platform used to deploy, host, and scale modern web applications, especially those built with React and frameworks like Next.js.|
 
 ## Underway
 - *ESP32-C5* for the mesh networking for the data communication.
