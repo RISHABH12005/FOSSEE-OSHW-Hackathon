@@ -48,8 +48,8 @@ LMS
 | Raspberry Pi Sense HAT | 1 | Collects critical environmental data, including temperature, humidity, and pressure. |
 | BrickPi | 1 | Acts as an interface between the Raspberry Pi and LEGO Mindstorms components, enabling motor control. |
 | Raspberry Pi 5MP Camera | 1 | Captures a live video feed for remote visual monitoring of livestock. |
-| LEGO Mindstorms Ultrasonic Sensors | 1 | Detects obstacles at the front and back of the unit to ensure safe, automated movement. |
-| LEGO Mindstorms Large Servo Motors | 2 | Controls the movement of physical systems, such as automated gates or feeding mechanisms. |
+| Ultrasonic Sensors | 1 | Detects obstacles at the front and back of the unit to ensure safe, automated movement. |
+| Large Servo Motors | 2 | Controls the movement of physical systems, such as automated gates or feeding mechanisms. |
 | MAX30102 Sensor | 1 | An optical sensor used to measure heart rate and blood oxygen (SpO₂). |
 | Arduino UNO R3 | 1 | Microcontroller development board based on the ATmega328P used to control electronics and sensors. |
 | MPU6050 | 1 | 6-axis motion sensor that provides accelerometer and gyroscope data for motion and orientation detection. |
