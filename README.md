@@ -1,4 +1,4 @@
-# FOSSEE OSHW Hackathon ( Under Smart Campus / Smart City)
+# FOSSEE OSHW Hackathon ( Under - Smart Campus / Smart City)
 
 # Project - livestock Monitoring System (LMS)
 
