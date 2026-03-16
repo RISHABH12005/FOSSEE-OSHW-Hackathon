@@ -89,7 +89,10 @@ LMS
 
 ## More Information
 - Project Report
-  <a href="Report/Report-LMS.pdf"></a>
+  <p>
+  <a href="Report/Report-LMS.pdf">
+  </a>
+  </p>
 - Project Video
   <a href="https://drive.google.com/file/d/1u1i36htpkk-EvShA8MiAmEx31UyfSyzn/view?usp=drive_link"></a>
 
