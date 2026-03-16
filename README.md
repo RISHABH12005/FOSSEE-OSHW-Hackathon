@@ -12,11 +12,6 @@ The LMS is an advanced solution designed to improve livestock management & ensur
   <img src="Img/LMS-Architecture.png" width="900">
 </p>
 
-This architecture shows the integration of:
-- Rover Bot (environment monitoring)
-- Smart Neckband (animal health)
-- AI dashboard and alerts
-
 ## Structure
 ```
 LMS
