@@ -41,7 +41,7 @@ LMS
 │   ├── AndroidManifest.xml
 │   └── MainActivity.kt
 │
-└── Web                             # Web dashboard (React + Vite)
+└── Web                             # Web dashboard
     ├── index.html
     ├── package.json
     ├── p.py
