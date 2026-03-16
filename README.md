@@ -19,13 +19,13 @@ LMS
 ├── Report                          # Project documentation
 │   └── Report-LMS.pdf
 │
-├── Rover                           # Raspberry Pi rover & control scripts
+├── Rover                           # Raspberry Pi rover & control scripts (Rover)
 │   ├── ip-static.sh
 │   ├── picam_motor_Auto&manual-move.py
 │   ├── sensehat.py
 │   ├── ultrasonic.py
 │   │
-│   └── check/                      # Hardware test scripts
+│   └── check/                      # Hardware testing scripts
 │       ├── brickpi.py
 │       ├── cam.py
 │       ├── env.py
@@ -33,10 +33,14 @@ LMS
 │       ├── moter.py
 │       └── sensor.py
 │
-├── Smart Variable                  # Arduino sensor programs
+├── Smart Variable                  # Arduino sensor programs (Smart Variables)
 │   ├── max30102.ino
 │   └── mpu6050.ino
 │
+├── App                             # Android mobile application
+│   ├── AndroidManifest.xml
+│   └── MainActivity.kt
+|
 └── Web                             # Web dashboard (React + Vite)
     ├── index.html
     ├── package.json
@@ -47,17 +51,7 @@ LMS
     │
     └── src/
         ├── components/
-        │   ├── Arrow-controller-pad.tsx
-        │   ├── control-pad.tsx
-        │   ├── direction-button.tsx
-        │   └── Navigation.tsx
-        │
         └── pages/
-            ├── DecieseDetection.tsx
-            ├── FeedPage.tsx
-            ├── LandingPage.tsx
-            ├── TemperaturePage.tsx
-            └── Vitals.tsx
 ```
 
 ## Hardware 
