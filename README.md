@@ -86,3 +86,10 @@ LMS
 - Solar Power Support for off-grid deployment.
 - Cloud-based data storage & analytics for better decision-making
 - Local Data Processing -> All operations are processed in real-time, ensuring fast response & system autonomy without reliance on internet connectivity.
+
+## More Information
+- Project Report
+  <a href="Report/Report-LMS.pdf"></a>
+- Project Video
+  <a href="https://drive.google.com/file/d/1u1i36htpkk-EvShA8MiAmEx31UyfSyzn/view?usp=drive_link"></a>
+
