@@ -16,29 +16,48 @@ The LMS is an advanced solution designed to improve livestock management & ensur
 ```
 LMS
 │
-├── AIML                     # Machine Learning for disease detection
-│   ├── main.py
-│   ├── Cattle_Disease_Project_ML.py
-│   └── Dataset/
-│       ├── Training.csv
-│       └── Testing.csv
+├── Report                          # Project documentation
+│   └── Report-LMS.pdf
 │
-├── App                      # Android mobile application
-│   ├── AndroidManifest.xml
-│   └── MainActivity.kt
-│
-├── Sensor                   # IoT sensor & Raspberry Pi scripts
-│   ├── max30102.ino
-│   ├── mpu6050.ino
+├── Rover                           # Raspberry Pi rover & control scripts
+│   ├── ip-static.sh
+│   ├── picam_motor_Auto&manual-move.py
 │   ├── sensehat.py
-│   └── picam_motor_Auto&manual-move.py
+│   ├── ultrasonic.py
+│   │
+│   └── check/                      # Hardware test scripts
+│       ├── brickpi.py
+│       ├── cam.py
+│       ├── env.py
+│       ├── i2c-spi.py
+│       ├── moter.py
+│       └── sensor.py
 │
-└── Web                      # Web dashboard (React + Vite)
+├── Smart Variable                  # Arduino sensor programs
+│   ├── max30102.ino
+│   └── mpu6050.ino
+│
+└── Web                             # Web dashboard (React + Vite)
     ├── index.html
     ├── package.json
+    ├── p.py
+    │
+    ├── public/
+    │   └── vite.svg
+    │
     └── src/
         ├── components/
+        │   ├── Arrow-controller-pad.tsx
+        │   ├── control-pad.tsx
+        │   ├── direction-button.tsx
+        │   └── Navigation.tsx
+        │
         └── pages/
+            ├── DecieseDetection.tsx
+            ├── FeedPage.tsx
+            ├── LandingPage.tsx
+            ├── TemperaturePage.tsx
+            └── Vitals.tsx
 ```
 
 ## Hardware 
