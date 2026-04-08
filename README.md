@@ -111,6 +111,6 @@ LMS
 - Local Data Processing -> All operations are processed in real-time, ensuring fast response & system autonomy without reliance on internet connectivity.
 
 ## More Information
-- [Project Report](Report/Report-LMS.pdf)
+- [Project Report](https://drive.google.com/file/d/1x8Uol9Afv7ritJcgJtwiMshXJpNBAqeW/view?usp=sharing)
 - [Project Video](https://drive.google.com/file/d/1u1i36htpkk-EvShA8MiAmEx31UyfSyzn/view?usp=drive_link)
 
